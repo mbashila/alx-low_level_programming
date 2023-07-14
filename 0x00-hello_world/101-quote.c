@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
- * main - Enerty
+ * main - Enerty point
  *
  * Return: Always 1 (Success)
  */
