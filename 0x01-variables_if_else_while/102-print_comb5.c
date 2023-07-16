@@ -3,7 +3,7 @@
  * maint - Prints all possible combinations of two two-digit numbers.
  * REturn: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	int i, j;
 	
