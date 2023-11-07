@@ -32,5 +32,5 @@
 	int _strlen(char *s);
 
 
-	#endif
+	#endif /* struct dog - a structure of dog */
 
